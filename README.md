@@ -1,5 +1,9 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Yusuf Budi Kusuma**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yusufbudikusuma/)ku ya.
+<br> Saya sekarang sedang menjadi mahasiswa yang menjalankan studi independen Bangkit Academy x Kampus Merdeka, Batch 2 ML-Path
 <!--
 **bdksma/bdksma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
