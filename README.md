@@ -8,7 +8,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <br> # Hi there, I'm Yusuf Budi Kusuma 👋
 
-I'm a final year Electrical Engineering student at Universitas Sultan Ageng Tirtayasa, focusing on **Web Development, Cloud Computing, and Data Analysis**. I'm passionate about building impactful tech solutions and continuously learning new tools and frameworks.
+I'm a Grdauated Electrical Engineering student at Universitas Sultan Ageng Tirtayasa, focusing on **Web Development, Cloud Computing, and Data Analysis**. I'm passionate about building impactful tech solutions and continuously learning new tools and frameworks.
 
 ### ⚡ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React
